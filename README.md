@@ -56,3 +56,12 @@ I, as a global cloud solution architect at Microsoft, am responsible for helping
   <code><a href="https://www.alibabacloud.com/product/maxcompute"><img height="40" src="https://avatars.githubusercontent.com/u/941070?s=280&v=4" alt="aliyun logo" /></a></code>
   <code><a href="https://www.tableau.com/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau logo" /></a></code>
 </p>
+
+<!-- GitHub Analytics -->
+## ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/korkridake">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=korkridake&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=korkridake&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
