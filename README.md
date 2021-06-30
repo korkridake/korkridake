@@ -20,10 +20,13 @@ Credit goes to:
 - [WarenGonzaga/WarenGonzaga: Personal README](https://github.com/WarenGonzaga/WarenGonzaga)
 - [imakash3011 (Akash Patel)](https://github.com/imakash3011)
 - [iahsanujunda (Izzuddin Ahsanujunda)](https://github.com/iahsanujunda)
+- [halfrost/README.md at master · halfrost/halfrost](https://github.com/halfrost/halfrost/blob/master/README.md)
 -->
 
 <!-- Introduction -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Global+Cloud+Solution+Architect;Open-Source+Developer+Advocate;Data+Scientist;and+Lifelong+Learner!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 I, as a global cloud solution architect at Microsoft, am responsible for helping strategic customers and partners with Digital Transformation, Business Intelligence, Azure, Open Source, and Data Intelligence & Analytics etc. I am a trusted advisor to top Azure customers and help empower them to achieve more. 
 
