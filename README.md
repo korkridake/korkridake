@@ -38,22 +38,17 @@ I, as a global cloud solution architect at Microsoft, am responsible for helping
 
 **Specialties**: Business intelligence, data warehousing, big data, Hadoop, cloud, master data management, machine learning, solution architecture, ETL, data modeling, data migration, dashboarding, Kimball methodology, massively parallel processing, database architecture, data integration, performance tuning, SQL Server BI stack
 
-<p align="center">
-	<a href="https://github.com/korkridake"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/korkridakepan/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/k_akepan"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
-
 <!-- Tech Stack -->
 ## :wrench: Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
 <!-- GitHub Analytics -->
 ## ⚙️ GitHub Analytics
