@@ -44,18 +44,16 @@ I, as a global cloud solution architect at Microsoft, am responsible for helping
 	<a href="https://twitter.com/k_akepan"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-<!-- Technologies -->
-## :wrench: Technologies
-<p align="center">
-  <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
-  <code><a href="https://www.scala-lang.org/"><img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" /></a></code>
-  <code><a href="https://spark.apache.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark logo" /></a></code>
-  <code><a href="https://scikit-learn.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="sklearn logo" /></a></a></code>
-  <code><a href="https://pytorch.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch logo" /></a></code>
-  <code><a href="https://jupyter.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></a></code>
-  <code><a href="https://www.alibabacloud.com/product/maxcompute"><img height="40" src="https://avatars.githubusercontent.com/u/941070?s=280&v=4" alt="aliyun logo" /></a></code>
-  <code><a href="https://www.tableau.com/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau logo" /></a></code>
-</p>
+<!-- Tech Stack -->
+## :wrench: Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
 <!-- GitHub Analytics -->
 ## ⚙️ GitHub Analytics
