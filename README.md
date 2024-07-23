@@ -31,19 +31,12 @@ Credit goes to:
 As an AI Specialized Cloud Solution Architect (CSA) and trusted advisor to top Azure customers at Microsoft, I am responsible for empowering our customers by unlocking their full potential with AI. I work closely with customers, partners, and internal teams to understand their business needs and challenges, and design and implement innovative and scalable solutions using Microsoft's cloud-based Data and AI services. I also mentor and coach other technical professionals, share best practices and insights, and contribute to the development of new products and features. I am passionate about empowering organizations to achieve more.
 
 ✨Diverse knowledge of providing effective business strategies, data modeling and business modeling
-
 ✨Extensive experience in a variety of industries including telecommunication, oil & gas, manufacturing, and e-commerce etc.
-
 ✨Good analytical skills and the ability to quickly assess data and investigate transaction data using statistical approach
-
 ✨Experience in predictive analytics, advanced statistical modelling, and data visualization for big data
-
 ✨Ability to translate research data into actionable information and offer an insight to business issues and opportunities
-
 ✨Strong problem solving and troubleshooting skills and highly attentive to detail
-
 ✨Ability to prioritize workload in an interrupt-driven environment with minimal or no supervision
-
 ✨Communicating with clients and internal team frequently and effectively to ensure that the objectives of the project are being fulfilled
 
 <!-- Tech Stack -->
