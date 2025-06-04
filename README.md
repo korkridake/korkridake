@@ -39,6 +39,24 @@ As an AI Specialized Cloud Solution Architect (CSA) and trusted advisor to top A
 - Ability to prioritize workload in an interrupt-driven environment with minimal or no supervision
 - Communicating with clients and internal team frequently and effectively to ensure that the objectives of the project are being fulfilled
 
+---
+
+## 🧠 Areas of Expertise
+
+- 🧑‍💻 **Modeling & Deployment**: SLM/LLM fine-tuning, model serving, evaluation-driven LLMOps, Traditional ML/Data Science, Computer Vision
+- ☁️ **Cloud ML Platforms**: Amazon SageMaker, Azure ML, Hugging Face
+- 📚 **Research to Production**: 6 academic papers, 6 1st author patents, 20+ produductions, 2 tech book translations
+- 🎤 **Thought Leadership**: 80+ seminars, 40+ public talks, 18 ML mentees
+
+---
+
+## 📝 Tech Blog Contributions
+
+- **Korkrid Kyle Akepanidtaworn** (2025). [How I Built a High-Performing Data Science Team with AutoGen Studio (AGS) | by Korkrid Kyle Akepanidtaworn | Apr, 2025 | Medium](https://medium.com/@kyleake/how-i-built-a-high-performing-data-science-team-with-autogen-studio-ags-e01d7928a38c)
+- **Korkrid Kyle Akepanidtaworn, He Zhang** (2024). [Fine-Tuning GPTs on Azure with a User-Friendly Dashboard | by Korkrid Kyle Akepanidtaworn | Medium](https://medium.com/@kyleake/fine-tuning-gpts-on-azure-with-a-user-friendly-dashboard-2c9dd6ee9246)
+
+---
+
 <!-- Tech Stack -->
 ## :wrench: Tech Stack
 
