@@ -43,11 +43,8 @@ As an AI Specialized Cloud Solution Architect (CSA) and trusted advisor to top A
 
 ## 🧠 Areas of Expertise
 
-- 🧑‍💻 **Modeling & Deployment**: SLM/LLM fine-tuning, model serving, evaluation-driven LLMOps, Traditional ML/Data Science, Computer Vision
-- ☁️ **Cloud ML Platforms**: Amazon SageMaker, Azure ML, Hugging Face
-- 📚 **Research to Production**: 6 academic papers, 6 1st author patents, 20+ produductions, 2 tech book translations
-- 🎤 **Thought Leadership**: 80+ seminars, 40+ public talks, 18 ML mentees
-
+- 🧑‍💻 **Modeling & Deployment**: SLM/LLM Fine-Tuning, Model Serving, Evaluation-Driven GenAIOps, Traditional ML/Data Science
+- ☁️ **Cloud + AI Platforms**: Azure AI, Hugging Face, Databricks
 ---
 
 ## 📝 Tech Blog Contributions
