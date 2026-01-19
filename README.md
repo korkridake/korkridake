@@ -49,7 +49,7 @@ As an **AI Specialized Cloud Solution Architect (CSA)** and **trusted advisor** 
 
 ## 📝 Tech Blog Contributions
 
-- **Akepanidtaworn, Klakow and Akepanidtaworn, Korkrid**, GDP Nowcasting Performance of Traditional Econometric Models vs Machine-Learning Algorithms. IMF Working Paper No. 2025/252, Available at SSRN: https://ssrn.com/abstract=5933712 or http://dx.doi.org/10.5089/9798229032018.001
+- **Akepanidtaworn, Klakow and Akepanidtaworn, Korkrid**, GDP Nowcasting Performance of Traditional Econometric Models vs Machine-Learning Algorithms. IMF Working Paper No. 2025/252, Available at SSRN: https://ssrn.com/abstract=5933712
 - **Korkrid Kyle Akepanidtaworn** (2025). [How I Built a High-Performing Data Science Team with AutoGen Studio (AGS) | by Korkrid Kyle Akepanidtaworn | Apr, 2025 | Medium](https://medium.com/@kyleake/how-i-built-a-high-performing-data-science-team-with-autogen-studio-ags-e01d7928a38c)
 - **Korkrid Kyle Akepanidtaworn, He Zhang** (2024). [Fine-Tuning GPTs on Azure with a User-Friendly Dashboard | by Korkrid Kyle Akepanidtaworn | Medium](https://medium.com/@kyleake/fine-tuning-gpts-on-azure-with-a-user-friendly-dashboard-2c9dd6ee9246)
 
