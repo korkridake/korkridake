@@ -28,7 +28,7 @@ Credit goes to:
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-As an AI Specialized Cloud Solution Architect (CSA) and trusted advisor to top Azure customers at Microsoft, I am responsible for empowering our customers by unlocking their full potential with AI. I work closely with customers, partners, and internal teams to understand their business needs and challenges, and design and implement innovative and scalable solutions using Microsoft's cloud-based Data and AI services. I also mentor and coach other technical professionals, share best practices and insights, and contribute to the development of new products and features. I am passionate about empowering organizations to achieve more.
+As an **AI Specialized Cloud Solution Architect (CSA)** and **trusted advisor** to top Azure customers at Microsoft, I am responsible for empowering our customers by unlocking their full potential with AI. I work closely with customers, partners, and internal teams to understand their business needs and challenges, and design and implement innovative and scalable solutions using Microsoft's cloud-based Data and AI services. I also mentor and coach other technical professionals, share best practices and insights, and contribute to the development of new products and features. I am passionate about empowering organizations to achieve more.
 
 - Diverse knowledge of providing effective business strategies, data modeling and business modeling
 - Extensive experience in a variety of industries including telecommunication, oil & gas, manufacturing, and e-commerce etc.
@@ -49,6 +49,7 @@ As an AI Specialized Cloud Solution Architect (CSA) and trusted advisor to top A
 
 ## 📝 Tech Blog Contributions
 
+- **Akepanidtaworn, Klakow and Akepanidtaworn, Korkrid**, GDP Nowcasting Performance of Traditional Econometric Models vs Machine-Learning Algorithms. IMF Working Paper No. 2025/252, Available at SSRN: https://ssrn.com/abstract=5933712 or http://dx.doi.org/10.5089/9798229032018.001
 - **Korkrid Kyle Akepanidtaworn** (2025). [How I Built a High-Performing Data Science Team with AutoGen Studio (AGS) | by Korkrid Kyle Akepanidtaworn | Apr, 2025 | Medium](https://medium.com/@kyleake/how-i-built-a-high-performing-data-science-team-with-autogen-studio-ags-e01d7928a38c)
 - **Korkrid Kyle Akepanidtaworn, He Zhang** (2024). [Fine-Tuning GPTs on Azure with a User-Friendly Dashboard | by Korkrid Kyle Akepanidtaworn | Medium](https://medium.com/@kyleake/fine-tuning-gpts-on-azure-with-a-user-friendly-dashboard-2c9dd6ee9246)
 
@@ -59,7 +60,7 @@ As an AI Specialized Cloud Solution Architect (CSA) and trusted advisor to top A
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Bicep](https://img.shields.io/badge/-Bicep-05122A?style=flat&logo=bicep)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
