@@ -41,15 +41,22 @@ As an **AI Specialized Cloud Solution Architect (CSA)** and **trusted advisor** 
 
 ---
 
+## 📕 Research Interests
+
+- 🏗️ **AIML Infra**: Multi-node distributed training, model serving, evaluation-driven LLMOps
+- 📚 **Research to Production**: Bridging experimentation with scalable, reliable, and safe deployment, focusing on robust infrastructure, prompt engineering, guardrails, rigorous testing (hallucinations, bias), data governance, monitoring (cost, latency), and continuous learning
+---
+
 ## 🧠 Areas of Expertise
 
-- 🧑‍💻 **Modeling & Deployment**: SLM/LLM Fine-Tuning, Model Serving, Evaluation-Driven GenAIOps, Traditional ML/Data Science
+- 🧑‍💻 **AIML**: Fine-tuning, Traditional ML/Data Science, Computer Vision
 - ☁️ **Cloud + AI Platforms**: Azure AI, Hugging Face, Databricks
 ---
 
 ## 📝 Tech Blog Contributions
 
 - **Akepanidtaworn, Klakow and Akepanidtaworn, Korkrid**, GDP Nowcasting Performance of Traditional Econometric Models vs Machine-Learning Algorithms. IMF Working Paper No. 2025/252, Available at SSRN: https://ssrn.com/abstract=5933712
+- **Korkrid Kyle Akepanidtaworn** (2025). [Document Generation and Summarization Accelerator | by Korkrid Kyle Akepanidtaworn | CodeX | Medium](https://medium.com/codex/document-generation-and-summarization-accelerator-ea8fc41d491a)
 - **Korkrid Kyle Akepanidtaworn** (2025). [How I Built a High-Performing Data Science Team with AutoGen Studio (AGS) | by Korkrid Kyle Akepanidtaworn | Apr, 2025 | Medium](https://medium.com/@kyleake/how-i-built-a-high-performing-data-science-team-with-autogen-studio-ags-e01d7928a38c)
 - **Korkrid Kyle Akepanidtaworn, He Zhang** (2024). [Fine-Tuning GPTs on Azure with a User-Friendly Dashboard | by Korkrid Kyle Akepanidtaworn | Medium](https://medium.com/@kyleake/fine-tuning-gpts-on-azure-with-a-user-friendly-dashboard-2c9dd6ee9246)
 
@@ -60,12 +67,14 @@ As an **AI Specialized Cloud Solution Architect (CSA)** and **trusted advisor** 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![Bicep](https://img.shields.io/badge/-Bicep-05122A?style=flat&logo=bicep)&nbsp;
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
 <!-- GitHub Analytics -->
 ## ⚙️ GitHub Analytics
