@@ -41,7 +41,7 @@ As an **AI Specialized Cloud Solution Architect (CSA)** and **trusted advisor** 
 
 ---
 
-## 📕 Research Interests
+## 📕 Research Focus
 
 - 🏗️ **AIML Infra**: Multi-node distributed training, model serving, evaluation-driven LLMOps
 - 📚 **Research to Production**: Bridging experimentation with scalable, reliable, and safe deployment, focusing on robust infrastructure, prompt engineering, guardrails, rigorous testing (hallucinations, bias), data governance, monitoring (cost, latency), and continuous learning
